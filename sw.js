@@ -1,9 +1,9 @@
-const staticCacheName = 'reviews-cache-v1'
+const staticCacheName = 'reviews-cache-v2'
 const assets = [
 				'/',
 				'/index.html',
 				'/restaurant.html',
-				'/css/styles.css',
+				//'/css/styles.css',
 				'/data/restaurants.json',
 				'/img/1.jpg',
 				'/img/2.jpg',
