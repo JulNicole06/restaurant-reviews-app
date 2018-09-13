@@ -1,12 +1,12 @@
 const staticCacheName = 'reviews-cache-v4'
 const assets = [
-				'./restaurant-reviews-app/index.html',
-				'./restaurant-reviews-app/restaurant.html',
-				'./restaurant-reviews-app/css/styles.css',
-				'./restaurant-reviews-app/data/restaurants.json',
-				'./restaurant-reviews-app/js/dbhelper.js',
-				'./restaurant-reviews-app/js/main.js',
-				'./restaurant-reviews-app/js/restaurant_info.js'
+				'./index.html',
+				'./restaurant.html',
+				'./css/styles.css',
+				'./data/restaurants.json',
+				'./js/dbhelper.js',
+				'./js/main.js',
+				'./js/restaurant_info.js'
 			]
 
 /*
