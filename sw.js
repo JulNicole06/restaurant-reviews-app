@@ -1,6 +1,5 @@
-const staticCacheName = 'reviews-cache-v3'
+const staticCacheName = 'reviews-cache-v4'
 const assets = [
-				'./restaurant-reviews-app/',
 				'./restaurant-reviews-app/index.html',
 				'./restaurant-reviews-app/restaurant.html',
 				'./restaurant-reviews-app/css/styles.css',
