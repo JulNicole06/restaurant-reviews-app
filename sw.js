@@ -1,23 +1,23 @@
 const staticCacheName = 'reviews-cache-v2'
 const assets = [
-				'restaurant-reviews-app/',
-				'restaurant-reviews-app/index.html',
-				'/restaurant.html',
-				'restaurant-reviews-app/css/styles.css',
-				'restaurant-reviews-app/data/restaurants.json',
-				'restaurant-reviews-app/img/1.jpg',
-				'restaurant-reviews-app/img/2.jpg',
-				'restaurant-reviews-app/img/3.jpg',
-				'restaurant-reviews-app/img/4.jpg',
-				'restaurant-reviews-app/img/5.jpg',
-				'restaurant-reviews-app/img/6.jpg',
-				'restaurant-reviews-app/img/7.jpg',
-				'restaurant-reviews-app/img/8.jpg',
-				'restaurant-reviews-app/img/9.jpg',
-				'restaurant-reviews-app/img/10.jpg',
-				'restaurant-reviews-app/js/dbhelper.js',
-				'restaurant-reviews-app/js/main.js',
-				'restaurant-reviews-app/js/restaurant_info.js'
+				'./restaurant-reviews-app/',
+				'./restaurant-reviews-app/index.html',
+				'./restaurant-reviews-app/restaurant.html',
+				'./restaurant-reviews-app/css/styles.css',
+				'./restaurant-reviews-app/data/restaurants.json',
+				'./restaurant-reviews-app/img/1.jpg',
+				'./restaurant-reviews-app/img/2.jpg',
+				'./restaurant-reviews-app/img/3.jpg',
+				'./restaurant-reviews-app/img/4.jpg',
+				'./restaurant-reviews-app/img/5.jpg',
+				'./restaurant-reviews-app/img/6.jpg',
+				'./restaurant-reviews-app/img/7.jpg',
+				'./restaurant-reviews-app/img/8.jpg',
+				'./restaurant-reviews-app/img/9.jpg',
+				'./restaurant-reviews-app/img/10.jpg',
+				'./restaurant-reviews-app/js/dbhelper.js',
+				'./restaurant-reviews-app/js/main.js',
+				'./restaurant-reviews-app/js/restaurant_info.js'
 			]
 
 /*
