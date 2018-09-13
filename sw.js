@@ -1,4 +1,4 @@
-const staticCacheName = 'reviews-cache-v2'
+const staticCacheName = 'reviews-cache-v3'
 const assets = [
 				'./restaurant-reviews-app/',
 				'./restaurant-reviews-app/index.html',
@@ -17,18 +17,6 @@ const assets = [
 self.addEventListener('install', function(event) {
 	event.waitUntil(
 		caches.open(staticCacheName).then(function(cache) {
-			caches.addAll([
-				'./restaurant-reviews-app/img/1.jpg',
-				'./restaurant-reviews-app/img/2.jpg',
-				'./restaurant-reviews-app/img/3.jpg',
-				'./restaurant-reviews-app/img/4.jpg',
-				'./restaurant-reviews-app/img/5.jpg',
-				'./restaurant-reviews-app/img/6.jpg',
-				'./restaurant-reviews-app/img/7.jpg',
-				'./restaurant-reviews-app/img/8.jpg',
-				'./restaurant-reviews-app/img/9.jpg',
-				'./restaurant-reviews-app/img/10.jpg'
-				]);
 			return cache.addAll(assets)
 		})
 	);
