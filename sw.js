@@ -1,23 +1,23 @@
 const staticCacheName = 'reviews-cache-v2'
 const assets = [
-				'/',
-				'/index.html',
+				'restaurant-reviews-app/',
+				'restaurant-reviews-app/index.html',
 				'/restaurant.html',
-				'/css/styles.css',
-				'/data/restaurants.json',
-				'/img/1.jpg',
-				'/img/2.jpg',
-				'/img/3.jpg',
-				'/img/4.jpg',
-				'/img/5.jpg',
-				'/img/6.jpg',
-				'/img/7.jpg',
-				'/img/8.jpg',
-				'/img/9.jpg',
-				'/img/10.jpg',
-				'/js/dbhelper.js',
-				'/js/main.js',
-				'/js/restaurant_info.js'
+				'restaurant-reviews-app/css/styles.css',
+				'restaurant-reviews-app/data/restaurants.json',
+				'restaurant-reviews-app/img/1.jpg',
+				'restaurant-reviews-app/img/2.jpg',
+				'restaurant-reviews-app/img/3.jpg',
+				'restaurant-reviews-app/img/4.jpg',
+				'restaurant-reviews-app/img/5.jpg',
+				'restaurant-reviews-app/img/6.jpg',
+				'restaurant-reviews-app/img/7.jpg',
+				'restaurant-reviews-app/img/8.jpg',
+				'restaurant-reviews-app/img/9.jpg',
+				'restaurant-reviews-app/img/10.jpg',
+				'restaurant-reviews-app/js/dbhelper.js',
+				'restaurant-reviews-app/js/main.js',
+				'restaurant-reviews-app/js/restaurant_info.js'
 			]
 
 /*

@@ -9,12 +9,14 @@ var markers = []
  */
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js').then(function(success) {
+  navigator.serviceWorker.register('/restaurant-reviews-app/sw.js').then(function(success) {
     console.log('Service Worker registered')
   }).catch(function(failure) {
     console.log('Service Worker failed', failure)
   });
 }
+
+
 
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
